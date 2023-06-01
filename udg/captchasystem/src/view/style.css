@@ -1,0 +1,13 @@
+
+.upload-list-inline .ant-upload-list-item {
+  float: center;
+  width: 400px;
+  margin-inline-end: 20px;
+}
+
+.ant-upload-rtl.upload-list-inline .ant-upload-list-item {
+  float: center;
+}
+.parent_row {
+  position: relative;
+}
